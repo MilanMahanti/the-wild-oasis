@@ -15,7 +15,6 @@
 
   </a>
 
-<h3 align="center">The Wild Oasis</h3>
 
   <p align="center">
    Wild Oasis is a complete hotel management app with a working backend to manage all your hotel data in one place. Its has a very clean and beautiful UI to match your test.
@@ -90,7 +89,11 @@ There are also some small features too I will encourage to explore those on your
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Details About the project
-
+I have used many popular libraries to built this project and I have listed them above as you can see. <br/>
+So I will start with the styling of the application. I have used  **React Styled Components** for styling. It is very simple and easy to use as it breaks down a big component in multiple smaller component which is relatively easier to style. <br/>
+Next for state mangement of the application I have used another popular library **React Query**. It makes the global state management of the app very simple and also it makes the UX of the application better by preloading certain datas ahead of time to give users a smooth experiance. <br/>
+The routing of the application is handled by **React Router**. <br/>
+Now for the backend of the application I have used **Supabase** which is an alternative of firebase. This is very easy to implement and perfect for this small scale application.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
